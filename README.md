@@ -1,4 +1,4 @@
-<h1>Hi, I'm Siya! <br/><a href="https://github.com/joshmadakor1">Software Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">UC Berkeley Student</a>
+<h1>Hi, I'm Siya! <br/><a href="https://github.com/siyapython">Software Developer</a>, <a href="https://www.linkedin.com/in/siyapatel24/">UC Berkeley Student</a>
 
 <h2>👨‍💻 Software & AI Projects:</h2>
 
