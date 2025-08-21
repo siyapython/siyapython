@@ -8,13 +8,13 @@
 
 - <b>Interactive Algorithm & Data Structure Visualizer (JavaScript, HTML/CSS) - <i>Upcoming</i></b>
   - Visualizes algorithms and data structures interactively, helping users learn and practice efficiently.
-  - [GitHub Repo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [GitHub Repo]()
 - <b>Reproductive Health Chatbot (Python, NLP, Web Integration)</b>
   - AI-powered chatbot that answers US teenagers’ questions about reproductive health; integrates natural language processing with a web interface.
   - [GitHub Repo](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Cloud-Hosted AI/Deep Learning Demo (React, Azure/AWS, TensorFlow) - <i>Upcoming</i></b>
   - Planned project demonstrating deployment of a neural network or AI model on the cloud with interactive web interface.
-  - [GitHub Repo](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [GitHub Repo]()
 - <b>Machine Learning Analysis Project (Python, ML, AI Fairness)</b>
   - Investigated bias in the COMPAS dataset, analyzing false positives/negatives across racial groups using logistic regression and random forest models.
   - [GitHub Repo](https://github.com/joshmadakor1/Sentinel-Lab)
