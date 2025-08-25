@@ -1,5 +1,12 @@
 <h1>Hi, I'm Siya! <br/><a href="https://github.com/siyapython">Software Developer</a>, <a href="https://www.linkedin.com/in/siyapatel24/">UC Berkeley Student</a>
 
+<h2>📄 Resume</h2>
+<p>
+  <a href="https://github.com/siyapython/resume/blob/main/SiyaPatel_Resume.pdf">
+    View Resume & Projects
+  </a>
+</p>
+
 <h2>👨‍💻 Software & AI Projects:</h2>
 
 - <b>Full Stack Web App (React, Firebase, AI-Powered Mental Wellness Tool)</b>
