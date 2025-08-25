@@ -1,11 +1,9 @@
 <h1>Hi, I'm Siya! <br/><a href="https://github.com/siyapython">Software Developer</a>, <a href="https://www.linkedin.com/in/siyapatel24/">UC Berkeley Student</a>
 
 <h2>📄 Resume</h2>
-<p>
-  <a href="https://github.com/siyapython/resume/blob/main/SiyaPatel_Resume.pdf">
-    View Resume & Projects
-  </a>
-</p>
+<a href="https://github.com/siyapython/resume/blob/main/SiyaPatel_Resume.pdf">
+  View Resume & Projects
+</a>
 
 <h2>👨‍💻 Software & AI Projects:</h2>
 
@@ -18,19 +16,19 @@
   - [GitHub Repo]()
 - <b>Reproductive Health Chatbot (Python, NLP, Web Integration)</b>
   - AI-powered chatbot that answers US teenagers’ questions about reproductive health; integrates natural language processing with a web interface.
-  - [GitHub Repo](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [GitHub Repo]()
 - <b>Cloud-Hosted AI/Deep Learning Demo (React, Azure/AWS, TensorFlow) - <i>Upcoming</i></b>
   - Planned project demonstrating deployment of a neural network or AI model on the cloud with interactive web interface.
   - [GitHub Repo]()
 - <b>Machine Learning Analysis Project (Python, ML, AI Fairness)</b>
   - Investigated bias in the COMPAS dataset, analyzing false positives/negatives across racial groups using logistic regression and random forest models.
-  - [GitHub Repo](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [GitHub Repo]()
 - <b>Bioinformatics Tool (R, Data Analysis, Genetics)</b>
   - Early detection tool for Huntington’s disease severity by quantifying CAG repeats in patient DNA sequences.
-  - [GitHub Repo](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [GitHub Repo]()
 - <b>Interactive Web Games Collection (p5.js, JavaScript, Game Design)</b>
   - Developed and playtested 3 browser games with focus on user experience and gameplay mechanics.
-  - [GitHub Repo](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [GitHub Repo]()
 
 <h2>🌱 Currently Learning & Building</h2>
 
