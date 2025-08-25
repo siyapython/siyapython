@@ -2,7 +2,7 @@
 
 <h2>📄 Resume</h2>
 <a href="https://github.com/siyapython/resume/blob/main/SiyaPatel_Resume.pdf">
-  View Resume & Projects
+  View Resume
 </a>
 
 <h2>👨‍💻 Software & AI Projects:</h2>
