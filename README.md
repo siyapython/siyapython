@@ -9,7 +9,7 @@
 
 - <b>Full Stack Web App (React, Firebase, AI-Powered Mental Wellness Tool)</b>
   - Web-based toolkit with journaling, timers, and AI-driven self-reflection to help students reset and manage stress.
-  - [GitHub Repo](https://github.com/joshmadakor1/Algorithms-Practice), [Live App](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [GitHub Repo], [Live App]
 
 - <b>Interactive Algorithm & Data Structure Visualizer (JavaScript, HTML/CSS) - <i>Upcoming</i></b>
   - Visualizes algorithms and data structures interactively, helping users learn and practice efficiently.
